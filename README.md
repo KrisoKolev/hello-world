@@ -1,3 +1,4 @@
 # hello-world
-We leaves on the planet Earth
+We leave on the planet Earth
 I love to watch the night sky.
+The nature is calling me!
