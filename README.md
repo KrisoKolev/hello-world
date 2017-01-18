@@ -2,7 +2,7 @@
 We live on the planet Earth
 I love to watch the night sky.
 The nature is calling me!
-I can't see anything!
+I can't see anything :)
 Well what about now?
 Super :P
 Ok im ready for this adventure.
