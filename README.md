@@ -1,11 +1,11 @@
 # hello-world
-We leave on the planet Earth
+We live on the planet Earth
 I love to watch the night sky.
 The nature is calling me!
-I can't see anythink!
+I can't see anything!
 Well what about now?
 Super :P
-Ok im redy for this adventure.
+Ok im ready for this adventure.
 Hi world again :).
 The pull change.
 The push change.
