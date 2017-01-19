@@ -13,3 +13,6 @@ Hi Daniela.
 VisualStudioComands
 ctr + k + c - закоментиране
 ctr + k + u - откоментиране
+ctr + v/c - copy paste
+ctr + z - връща копирания ред
+1:40 - Programming Basics Логически проверки 
