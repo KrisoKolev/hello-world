@@ -9,5 +9,7 @@ Ok im ready for this adventure.
 Hi world again :).
 The pull change.
 The push change.
-01:12 m.
 Hi Daniela.
+VisualStudioComands
+ctr + k + c - закоментиране
+ctr + k + u - откоментиране
