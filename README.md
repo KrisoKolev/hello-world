@@ -16,4 +16,3 @@ ctr + k + u - откоментиране
 ctr + v/c - copy paste
 ctr + z - връща копирания ред
 1:40 - Programming Basics Логически проверки 
-1:33
